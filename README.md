@@ -51,7 +51,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone [https://github.com/Bloodraze/Course-work.git](https://github.com/Bloodraze/--------.git)
+git clone [https://github.com/Bloodraze/Course-work.git](https://github.com/Bloodraze/Course-work.git)
 cd --------
 ```
 
@@ -98,7 +98,7 @@ http://127.0.0.1:5500
 Студенческий проект по веб-разработке.
 Выполнено студентом Санкт-Петербургского Государственного Бюджетного Профессионального Образовательного Учреждения "Колледжа Судостроения, Информационных и Прикладных Технологий"(СПБ ГБПОУ КСИПТ) группы ИВ1к-24.
 
-GitHub: https://github.com/Bloodraze/--------
+GitHub: https://github.com/Bloodraze/Course-work
 
 ## Лицензия
 
